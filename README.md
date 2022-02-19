@@ -1,4 +1,4 @@
-# Customer-Segmentation-Analysis
+# Customer-Campaign-Segmentation-Analysis
 
 This project deals with customer data related to a supermarket which spans for 2 years. We can use the data to analyze trends and infer how people interact with campaigns conducted by supermarket. 
 
